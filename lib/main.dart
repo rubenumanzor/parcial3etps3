@@ -3,6 +3,15 @@ import 'package:flutter/material.dart';
 import 'package:parcial3etps3/model/Restaurante.dart';
 import 'package:http/http.dart' as http;
 
+/*
+    EXAMEN PARCIAL # 3
+    *******************************************************************
+    Alumnos                                 Carnet
+    Umanzor Giron Ruben Alexander         25-6554-2014
+    Orellana Hernandez Mauricio Ernesto   25-5919-2014
+
+ */
+
 void main() {
   runApp(ConsumirApi());
 }
